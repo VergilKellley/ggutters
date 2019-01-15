@@ -91,8 +91,23 @@ nav ul li a:hover{
   transform: translate(-50%,-50%);*/
   }
 
-.card {
+.box {
 	border: 4px #000 solid;
+}
+
+.box-1 {
+	background: #b1283a; /* red */
+	color: #fff;
+}
+
+.box-2 {
+	background: #233573; /* blue */
+	color: #fff;
+	border-radius: 15px;
+}
+
+.box-3 {
+	text-align: center;
 }
 
 .card h4 {
